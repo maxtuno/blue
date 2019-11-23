@@ -1,4 +1,4 @@
-# blue
+# BLUE
  A Powerful  SAT Solver for Java
  
  very simple:
