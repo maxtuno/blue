@@ -5,4 +5,4 @@
  
  java -jar blue.jar file.cnf
  
- This solver is based on Minisat many thaks to Niklas Een, Niklas Sorensson for this great solver.
+Blue is based on Minisat many thanks to Niklas Een, Niklas Sorensson for this great solver.
